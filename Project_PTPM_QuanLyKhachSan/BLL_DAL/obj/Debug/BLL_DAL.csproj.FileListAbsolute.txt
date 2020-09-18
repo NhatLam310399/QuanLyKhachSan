@@ -4,3 +4,8 @@ E:\CODE\PhatTrienPM\DA_QLKhachSan_Lam_Duong\QuanLyKhachSan\Project_PTPM_QuanLyKh
 E:\CODE\PhatTrienPM\DA_QLKhachSan_Lam_Duong\QuanLyKhachSan\Project_PTPM_QuanLyKhachSan\BLL_DAL\obj\Debug\BLL_DAL.pdb
 E:\CODE\PhatTrienPM\DA_QLKhachSan_Lam_Duong\QuanLyKhachSan\Project_PTPM_QuanLyKhachSan\BLL_DAL\bin\Debug\BLL_DAL.dll.config
 E:\CODE\PhatTrienPM\DA_QLKhachSan_Lam_Duong\QuanLyKhachSan\Project_PTPM_QuanLyKhachSan\BLL_DAL\obj\Debug\BLL_DAL.csprojResolveAssemblyReference.cache
+E:\CODE\PhatTrienPM\Github\QuanLyKhachSan\Project_PTPM_QuanLyKhachSan\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+E:\CODE\PhatTrienPM\Github\QuanLyKhachSan\Project_PTPM_QuanLyKhachSan\BLL_DAL\bin\Debug\BLL_DAL.dll
+E:\CODE\PhatTrienPM\Github\QuanLyKhachSan\Project_PTPM_QuanLyKhachSan\BLL_DAL\bin\Debug\BLL_DAL.pdb
+E:\CODE\PhatTrienPM\Github\QuanLyKhachSan\Project_PTPM_QuanLyKhachSan\BLL_DAL\obj\Debug\BLL_DAL.dll
+E:\CODE\PhatTrienPM\Github\QuanLyKhachSan\Project_PTPM_QuanLyKhachSan\BLL_DAL\obj\Debug\BLL_DAL.pdb

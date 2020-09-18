@@ -17,3 +17,7 @@ E:\CODE\PhatTrienPM\DA_QLKhachSan_Lam_Duong\QuanLyKhachSan\GUI\obj\Debug\GUI.frm
 E:\CODE\PhatTrienPM\DA_QLKhachSan_Lam_Duong\QuanLyKhachSan\GUI\obj\Debug\GUI.frmThanhToan.resources
 E:\CODE\PhatTrienPM\DA_QLKhachSan_Lam_Duong\QuanLyKhachSan\GUI\obj\Debug\GUI.frmQL_LoaiPh.resources
 E:\CODE\PhatTrienPM\DA_QLKhachSan_Lam_Duong\QuanLyKhachSan\GUI\obj\Debug\GUI.frmQL_DichVu.resources
+E:\CODE\PhatTrienPM\Github\QuanLyKhachSan\GUI\bin\Debug\GUI.exe.config
+E:\CODE\PhatTrienPM\Github\QuanLyKhachSan\GUI\obj\Debug\GUI.exe
+E:\CODE\PhatTrienPM\Github\QuanLyKhachSan\GUI\obj\Debug\GUI.pdb
+E:\CODE\PhatTrienPM\Github\QuanLyKhachSan\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
